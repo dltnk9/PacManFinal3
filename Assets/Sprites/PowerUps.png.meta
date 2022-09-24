@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 88000e711b2df3643b4795fcc9f2839a
+guid: 48a211137061ea941b9812bde7a11ed6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 60
+  spritePixelsToUnits: 120
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GhostHorizontalFirst_0
+      name: PowerUps_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 172
-        width: 72
-        height: 68
+        x: 20
+        y: 152
+        width: 92
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edbca8f2ff72ef445a529f0002645053
-      internalID: -1355373472
+      spriteID: 86bbf9dff3fe5564fb496b209776ba3f
+      internalID: -1699490595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostHorizontalFirst_1
+      name: PowerUps_1
       rect:
         serializedVersion: 2
-        x: 156
-        y: 172
-        width: 80
-        height: 68
+        x: 148
+        y: 152
+        width: 92
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 015a74a68dc152549bf4cb85fa003238
-      internalID: -1206370638
+      spriteID: 131c704ec5511aa4f8ff0761a84b5521
+      internalID: -894707408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostHorizontalFirst_2
+      name: PowerUps_2
       rect:
         serializedVersion: 2
-        x: 284
-        y: 172
-        width: 72
-        height: 68
+        x: 276
+        y: 152
+        width: 92
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a98a35cb51acc4a4cbc66d1541c5b44b
-      internalID: -1544575889
+      spriteID: bb88ea93158e63b4ea13c10bb35ac68f
+      internalID: -1134547933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostHorizontalFirst_3
+      name: PowerUps_3
       rect:
         serializedVersion: 2
-        x: 28
-        y: 44
-        width: 80
-        height: 68
+        x: 20
+        y: 24
+        width: 92
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,8 +183,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a0046f4c1155cd409d3a683bb000c52
-      internalID: -1141002561
+      spriteID: e5ac4371fafdcf642bf1f46ca98df7be
+      internalID: 1963529249
       vertices: []
       indices: 
       edges: []
@@ -200,10 +200,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GhostHorizontalFirst_2: -1544575889
-      GhostHorizontalFirst_3: -1141002561
-      GhostHorizontalFirst_0: -1355373472
-      GhostHorizontalFirst_1: -1206370638
+      PowerUps_0: -1699490595
+      PowerUps_1: -894707408
+      PowerUps_3: 1963529249
+      PowerUps_2: -1134547933
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
