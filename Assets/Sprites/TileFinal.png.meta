@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0e48429fc127f19458a2fdbc8042c33f
+guid: a48e69e98095bbf459fed1265eeea7c3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 60
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GhostVerticalFirst_0
+      name: TileFinal_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 172
-        width: 72
-        height: 68
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef1d7ddf874ed884588153f9d4f035bb
-      internalID: 1894496618
+      spriteID: 252f7fa955c125049878b806fa7ec31a
+      internalID: 1154465949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostVerticalFirst_1
+      name: TileFinal_1
       rect:
         serializedVersion: 2
-        x: 156
-        y: 172
-        width: 80
-        height: 68
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 633a92a6cde16394cadcd7b127bcd4ad
-      internalID: -523691988
+      spriteID: 6d42945967d1ecb4aa2a1f2d07313c56
+      internalID: 1538773962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostVerticalFirst_2
+      name: TileFinal_2
       rect:
         serializedVersion: 2
-        x: 284
-        y: 172
-        width: 72
-        height: 68
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b2eecb45b28e4b48a1c395a01b37aa1
-      internalID: 609773665
+      spriteID: 6a8b384e70a96504b9b94eeadb6b933b
+      internalID: -2080025525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostVerticalFirst_3
+      name: TileFinal_3
       rect:
         serializedVersion: 2
-        x: 28
-        y: 44
-        width: 80
-        height: 68
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,8 +183,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c9380914cf6b954fb17606b0e84e9f6
-      internalID: -1190381201
+      spriteID: 96c4577b2671da942875fd0a125307de
+      internalID: -469411564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFinal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0fac820e59074ab5134c535918332
+      internalID: 170490290
       vertices: []
       indices: 
       edges: []
@@ -200,10 +221,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GhostVerticalFirst_2: 609773665
-      GhostVerticalFirst_1: -523691988
-      GhostVerticalFirst_3: -1190381201
-      GhostVerticalFirst_0: 1894496618
+      TileFinal_4: 170490290
+      TileFinal_2: -2080025525
+      TileFinal_0: 1154465949
+      TileFinal_1: 1538773962
+      TileFinal_3: -469411564
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
