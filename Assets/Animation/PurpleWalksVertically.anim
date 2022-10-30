@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MonsterPurpleWalkingStateIdle
+  m_Name: PurpleWalksVertically
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -20,13 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -1850870585, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
+      value: {fileID: -1742224208, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
     - time: 1.0833334
-      value: {fileID: 1571300424, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
+      value: {fileID: -168550187, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
     - time: 2.25
-      value: {fileID: -617486529, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
+      value: {fileID: 709028883, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
     - time: 3.3333333
-      value: {fileID: 1560697585, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
+      value: {fileID: -246817395, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -47,10 +47,10 @@ AnimationClip:
       isPPtrCurve: 1
       isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: -1850870585, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
-    - {fileID: 1571300424, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
-    - {fileID: -617486529, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
-    - {fileID: 1560697585, guid: a85b561cb507c5341af97a5bb0b293be, type: 3}
+    - {fileID: -1742224208, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
+    - {fileID: -168550187, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
+    - {fileID: 709028883, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
+    - {fileID: -246817395, guid: 0765701ff5df61944b702a89097a7f4b, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
