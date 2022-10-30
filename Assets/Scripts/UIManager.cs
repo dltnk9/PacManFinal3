@@ -21,4 +21,10 @@ public class UIManager : MonoBehaviour
         SceneManager.LoadScene(0);
         DontDestroyOnLoad(this);
     }
+
+    public void LoadStartLevel()
+    {
+        SceneManager.LoadScene(1);
+        DontDestroyOnLoad(this);
+    }
 }
